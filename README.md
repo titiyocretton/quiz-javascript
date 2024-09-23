@@ -7,18 +7,15 @@
 
 ## Installation
 
-Cloner le repository git
+Cloner le repository git depuis VSCode:
 
-```
-git clone git@github.com:eikon-frontend/starterkit.git <nom du projet>
-```
-
-Se rendre dans le dossier du projet, puis installer les dépendances avec NPM
-
-```
-cd quiz-javascript
-npm install
-```
+1. Copiez l'URL "https://github.com/iwolfisberg/quiz-javascript"
+2. Dans VSCode, cliquer sur `Command` + `Shift` + `p`
+3. Tapez "git"
+4. Sélectionnez "git clone" et collez l'URL copié en 1.
+5. Choisissez où enregistrer le dossier sur votre ordinateur.
+6. Lorsque VSCode vous demande si vous souhaitez ouvrir le dossier, sélectionnez "Oui".
+7. Ouvrez un terminal et faites la commande `npm install`
 
 ## Instructions
 

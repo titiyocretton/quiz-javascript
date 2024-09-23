@@ -34,9 +34,9 @@ Lisez les instructions et répondez aux questions.
 Une fois le temps écoulé et le quiz répondu, veuillez:
 
 1. Cliquez sur l'onglet "Source Control" dans VSCode (sur la gauche)
-   ![alt text](<Capture d’écran 2024-09-23 à 17.16.22.png>)
+   ![alt text](./instruction-1.png)
 2. Cliquez sur le "+" afin d'ajouter tous les changements au commit
-   ![alt text](<Capture d’écran 2024-09-23 à 17.17.47.png>)
+   ![alt text](./instruction-2.png)
 3. Ajoutez ensuite le message du commit avant de cliquer sur la petite flèche à droite du mot "Commit". Sélectionnez "Commit & Push".
-   ![alt text](<Capture d’écran 2024-09-23 à 17.30.06.png>)
+   ![alt text](./instruction-3.png)
 4. Dans le devoir créé sur Teams, copiez l'URL de votre repository.

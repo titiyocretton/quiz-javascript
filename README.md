@@ -9,12 +9,12 @@
 
 Cloner le repository git depuis VSCode:
 
-1. Copiez l'URL "https://github.com/iwolfisberg/quiz-javascript"
+1. Forkez le repository et ensuite, copiez l'URL de votre repository (quelque chose comme: "https://github.com/xxx/quiz-javascript")
 2. Dans VSCode, cliquer sur `Command` + `Shift` + `p`
 3. Tapez "git"
 4. Sélectionnez "git clone" et collez l'URL copié en 1.
 5. Choisissez où enregistrer le dossier sur votre ordinateur.
-6. Lorsque VSCode vous demande si vous souhaitez ouvrir le dossier, sélectionnez "Oui".
+6. Lorsque VSCode vous demande si vous souhaitez ouvrir le dossier, sélectionnez "Open".
 7. Ouvrez un terminal et faites la commande `npm install`
 
 ## Instructions
@@ -37,6 +37,6 @@ Une fois le temps écoulé et le quiz répondu, veuillez:
    ![alt text](<Capture d’écran 2024-09-23 à 17.16.22.png>)
 2. Cliquez sur le "+" afin d'ajouter tous les changements au commit
    ![alt text](<Capture d’écran 2024-09-23 à 17.17.47.png>)
-3. Ajoutez ensuite le message du commit avant de cliquer sur "Commit"
-   ![alt text](<Capture d’écran 2024-09-23 à 17.19.59.png>)
-4.
+3. Ajoutez ensuite le message du commit avant de cliquer sur la petite flèche à droite du mot "Commit". Sélectionnez "Commit & Push".
+   ![alt text](<Capture d’écran 2024-09-23 à 17.30.06.png>)
+4. Dans le devoir créé sur Teams, copiez l'URL de votre repository.

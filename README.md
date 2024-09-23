@@ -28,3 +28,15 @@ npm run dev
 Rendez vous dans le fichier `src/js/main.js`.
 
 Lisez les instructions et répondez aux questions.
+
+## Rendu
+
+Une fois le temps écoulé et le quiz répondu, veuillez:
+
+1. Cliquez sur l'onglet "Source Control" dans VSCode (sur la gauche)
+   ![alt text](<Capture d’écran 2024-09-23 à 17.16.22.png>)
+2. Cliquez sur le "+" afin d'ajouter tous les changements au commit
+   ![alt text](<Capture d’écran 2024-09-23 à 17.17.47.png>)
+3. Ajoutez ensuite le message du commit avant de cliquer sur "Commit"
+   ![alt text](<Capture d’écran 2024-09-23 à 17.19.59.png>)
+4.

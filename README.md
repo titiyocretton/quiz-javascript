@@ -29,7 +29,7 @@ Rendez vous dans le fichier `src/js/main.js`.
 
 Lisez les instructions et répondez aux questions.
 
-## Rendu
+## Une fois l'exercice terminé
 
 Une fois le temps écoulé et le quiz répondu, veuillez:
 

@@ -1,6 +1,6 @@
-// Quiz: Veuillez répondre aux questions ci-dessous. (50 min) (+15 min pour les personnes bénéficiant de mesures supplémentaires)
+// Quiz: Veuillez répondre aux questions ci-dessous. (1 heure) (+20 min pour les personnes bénéficiant de mesures supplémentaires)
 // Lorsqu'il y a des sous-points (questions 7, 8 et 11), ils vous guident dans les diverses étapes de l'exercice.
-// Le quiz est individuel. VOus avez cependant accès à tous les supports de cours, ainsi qu'internet.
+// Le quiz est individuel. Vous avez cependant accès à tous les supports de cours, ainsi qu'internet.
 // -----------------------
 
 // 1. Expliquez ce qu'est-ce qu'une variable.
@@ -33,10 +33,10 @@
 
 // -----------------------
 // 8. Utilisez la variable "cardContent" créée à l'exercice 7:
-// 8.1 Utilisez la propriété .classList pour ajouter (.add("...")) la class ".highlight" à l'élément HTML.
+// 8.1 Utilisez la propriété   -> .classList <-   pour ajouter   -> .add("...") <-   la class "highlight" à l'élément HTML.
 
 // -----------------------
-// 9. Récupérez la valeur de l'attribut "placeholder" (.getAttribute("...")) de l'élément HTML <input> (ligne 17 du code HTML).
+// 9. Récupérez la valeur de l'attribut "placeholder"   -> .getAttribute("...") <-   de l'élément HTML <input> (ligne 17 du code HTML).
 
 // -----------------------
 // 10. Expliquez ce qu'est un écouteur d'événement.
@@ -45,5 +45,5 @@
 // -----------------------
 // 11. Sur l'élément HTML button (ligne 26 du code HTML), écoutez l'événement "click":
 // 11.1 : Sélectionnez l'élément HTML <button> (ligne 26 du code HTML).
-// 11.2 : Utilisez la méthode .addEventListener("...", function() {...}) sur l'élément HTML sélectionné en 11.1 pour écouter l'événement "click".
-// 11.3 : Lorsqu'un.e utilisateurice clique sur le bouton, ajoutez/supprimez (toggle) la class ".hide" de l'élément HTML <p> (ligne 29-31 du code HTML).
+// 11.2 : Utilisez la méthode   -> .addEventListener("...", function() {...}) <-   sur l'élément HTML sélectionné en 11.1 pour écouter l'événement "click".
+// 11.3 : Lorsqu'un.e utilisateurice clique sur le bouton, ajoutez/supprimez (toggle) la class "hide" de l'élément HTML <p> (ligne 29-31 du code HTML).
